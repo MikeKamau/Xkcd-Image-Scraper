@@ -1,0 +1,13 @@
+PURPOSE
+============
+The purpose of this spider is to crawl xkcd.com and scrape the images from the site.
+
+PREREQUISITES
+=============
+To use this spider make sure you have python 2.7 installed and you've installed the scrapy python module.
+
+USAGE
+=============
+To start the spider, type the following command:
+
+scrapy crawl xkcd
